@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-25 17:24-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: services/admin/admin.py:43
+#, python-format
+msgid "%s: El token no ha sido definido"
+msgstr ""
+
+#: services/admin/admin.py:52
+#, python-format
+msgid "%s: ¡El token ha expirado!"
+msgstr ""
+
+#: services/admin/admin.py:55
+#, python-format
+msgid ""
+"%s: Eliminando token del usuario por acabar en el límite de la expiración"
+msgstr ""
+
+#: services/admin/admin.py:64
+#, python-format
+msgid "%s: Hubo un problema borrando el token expirado del usuario"
+msgstr ""
+
+#: services/admin/admin.py:78
+#, python-format
+msgid "%s: ¡El token del usuario no existe!"
+msgstr ""
+
+#: services/admin/admin.py:83
+msgid "El token no existe"
+msgstr ""
+
+#: services/admin/admin.py:92
+#, python-format
+msgid "%s: ¡El nodo '%s' no forma parte de la red!"
+msgstr ""
+
+#: services/admin/admin.py:97
+msgid "El nodo proporcionado no forma parte de la red"
+msgstr ""
+
+#: services/admin/admin.py:109
+#, python-format
+msgid "%s: El servicio no existe"
+msgstr ""
+
+#: services/admin/admin.py:125
+#, python-format
+msgid "%s: El servicio no es parte del nodo '%s'"
+msgstr ""
+
+#: services/admin/admin.py:132
+#, python-format
+msgid "%s: Reenviando datos..."
+msgstr ""
+
+#: services/admin/admin.py:150
+#, python-format
+msgid "%s: No se definió el nodo a conectar"
+msgstr ""
+
+#: services/admin/admin.py:155
+msgid "No definió el nodo a conectar"
+msgstr ""
+
+#: services/admin/admin.py:160
+#, python-format
+msgid "%s: La información proporcionada sobre el nodo no es correcta"
+msgstr ""
+
+#: services/admin/admin.py:165
+msgid "La información proporcionada sobre el nodo no es correcta"
+msgstr ""
+
+#: services/admin/admin.py:173
+#, python-format
+msgid "%s: La dirección o el nombre del host no tiene un tipo correcto de dato"
+msgstr ""
+
+#: services/admin/admin.py:180
+msgid "La dirección o el nombre del host no tiene un tipo correcto de dato"
+msgstr ""
+
+#: services/admin/admin.py:190
+#, python-format
+msgid "%s: El puerto del nodo no tiene un tipo correcto de dato"
+msgstr ""
+
+#: services/admin/admin.py:197
+msgid "El puerto del nodo no tiene un tipo correcto de dato"
+msgstr ""
+
+#: services/admin/admin.py:217
+#, python-format
+msgid "%s: La dirección '%s' no es válida: %s"
+msgstr ""
+
+#: services/admin/admin.py:230
+#, python-format
+msgid "%s: La clave pública '%s' del nodo '%s' no existe o no es un archivo"
+msgstr ""
+
+#: services/admin/admin.py:246
+#, python-format
+msgid "%s: No se pudo obtener el token del nodo '%s'"
+msgstr ""
+
+#: services/admin/admin.py:261
+#, python-format
+msgid "%s: No se pudo obtener el nombre de usuario del nodo '%d'"
+msgstr ""
+
+#: services/admin/admin.py:272
+#, python-format
+msgid "%s: Conectando con %s..."
+msgstr ""
+
+#: services/admin/admin.py:283
+#, python-format
+msgid "%s: ¡Error conectando con %s!"
+msgstr ""
+
+#: services/admin/admin.py:287
+#, python-format
+msgid "%s: Conectado: %s"
+msgstr ""
+
+#: services/admin/admin.py:312
+#, python-format
+msgid "%s: No se pudo encontrar un nodo que tenga el servicio requerido"
+msgstr ""
+
+#: services/admin/admin.py:317
+msgid "Servicio no encontrado"
+msgstr ""
