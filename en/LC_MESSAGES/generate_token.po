@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-23 03:45-0400\n"
+"PO-Revision-Date: 2020-09-23 04:18-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: services/generate_token/generate_token.py:28
+msgid "La expresión regular no es un tipo de dato válido"
+msgstr "The regular expression is not a valid data type"
+
+#: services/generate_token/generate_token.py:68
+#, python-format
+msgid "%s: El usuario es un invitado; necesita un token de un usuario administrador"
+msgstr "%s: The user is a guest; needs a token from an admin user"
+
+#: services/generate_token/generate_token.py:83
+#, python-format
+msgid "%s: ¡No se pudo obtener el hash!"
+msgstr "%s: Failed to get hash!"
+
+#: services/generate_token/generate_token.py:99
+#, python-format
+msgid "%s: ¡El hash obtenido de la base de datos es inválido!"
+msgstr "%s: The hash obtained from the database is invalid!"
+
+#: services/generate_token/generate_token.py:109
+#, python-format
+msgid "%s: La contraseña proporcionada no es correcta"
+msgstr "%s: The password provided is not correct"
+
+#: services/generate_token/generate_token.py:115
+msgid "La contraseña proporcionada no es correcta"
+msgstr "The password provided is not correct"
+
+#: services/generate_token/generate_token.py:126
+#, python-format
+msgid "%s: Se debe usar una expresión regular válida"
+msgstr "%s: A valid regular expression should be used"
+
+#: services/generate_token/generate_token.py:131
+msgid "La expresión regular no es válida"
+msgstr "The regular expression is not valid"
+
+#: services/generate_token/generate_token.py:153
+#, python-format
+msgid "%s: ¡Cambiando contraseña!"
+msgstr "%s: Changing password!"
+
+#: services/generate_token/generate_token.py:169
+#, python-format
+msgid "%s: Cambiando el límite de token's"
+msgstr "%s: Changing the token's limit"
+
+#: services/generate_token/generate_token.py:176
+#, python-format
+msgid "%s: Hecho."
+msgstr "%s: Done."
+
+#: services/generate_token/generate_token.py:190
+#, python-format
+msgid "%s: Los segundos de expiración deben ser mayor que 0"
+msgstr "%s: Expiration seconds must be greater than 0"
+
+#: services/generate_token/generate_token.py:195
+msgid "Los segundos de expiración deben ser mayor que 0"
+msgstr "Expiration seconds must be greater than 0"
+
+#: services/generate_token/generate_token.py:201
+#, python-format
+msgid "%s: Generando e insertando token..."
+msgstr "%s: Generating and inserting token..."
+
+#: services/generate_token/generate_token.py:212
+#, python-format
+msgid "%s: Se ha llegado al límite de token's permitidos"
+msgstr "%s: The allowed token limit has been reached"
+
+#: services/generate_token/generate_token.py:215
+#, python-format
+msgid "%s: ¡Se ha creado un nuevo token!"
+msgstr "%s: A new token has been created!"
+
+#: services/generate_token/generate_token.py:216
+#, python-format
+msgid "%s: Enviando token..."
+msgstr "%s: Sending token..."
